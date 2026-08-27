@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Reine 👋
 
-<!--
-**reine-elkadri/reine-elkadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | React | JavaScript | Flutter**
 
-Here are some ideas to get you started:
+I enjoy building modern, responsive websites and applications with a strong focus on clean UI, usability, and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Vite
+
+**Mobile**
+
+* Flutter
+* Dart
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+### 🚀 Featured Projects
+
+🏔️ **Cedar Ridge Resort**
+Modern responsive resort website with an elegant hospitality-focused design.
+
+🏨 **ÉLAN Boutique Hotel**
+Luxury boutique hotel website built with React and Vite.
+
+👗 **Moda Fashion Website**
+Modern fashion e-commerce style website built with React.
+
+🥐 **Crumb & Co. Bakery**
+Responsive bakery e-commerce website with cart and checkout experience.
+
+📱 **LIU App**
+Flutter mobile application for student attendance management.
+
+### 📫 Let's Connect
+
+I'm interested in frontend development, web design, and building creative digital experiences.
