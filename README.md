@@ -1,47 +1,91 @@
 # Hi, I'm Reine 👋
 
-💻 **Frontend Developer | React | JavaScript | Flutter**
+💻 **Computer Science Student | Aspiring Software Developer**
 
-I enjoy building modern, responsive websites and applications with a strong focus on clean UI, usability, and smooth user experiences.
+I'm a Computer Science student with a strong foundation in programming and software development, with hands-on experience through academic and personal projects. I'm interested in building practical applications and exploring modern computing technologies.
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Frontend**
+**Programming**
 
-* React
+* Java
+* C++
+* Python
 * JavaScript
+
+**Web Development**
+
 * HTML
 * CSS
-* Vite
+* React
+* React Router
+* REST APIs
+* Responsive Design
 
-**Mobile**
+**Backend & Databases**
 
-* Flutter
-* Dart
+* MySQL
+* PHP
 
 **Tools**
 
 * Git
 * GitHub
+* Vite
 * VS Code
+* Figma
+
+**Other**
+
+* Chart.js
+* UI Design
+* Component-Based Development
 
 ### 🚀 Featured Projects
 
+🤖 **AI-Powered Student Assistant**
+React web application enabling students to query course-related information through an AI-powered conversational interface. Integrated external AI APIs and built reusable, responsive React components.
+
+📊 **Data Analytics & Visualization Dashboard**
+Interactive React dashboard for exploring and visualizing real-world datasets through charts, filtering, and sorting. Connected external REST APIs to retrieve and display structured data dynamically.
+
 🏔️ **Cedar Ridge Resort**
-Modern responsive resort website with an elegant hospitality-focused design.
+Modern responsive resort website focused on hospitality and user experience, featuring accommodations, amenities, experiences, gallery content, and booking interactions.
 
-🏨 **ÉLAN Boutique Hotel**
-Luxury boutique hotel website built with React and Vite.
+👗 **Moda — Fashion E-Commerce Web App**
+Multi-page fashion storefront built with React and Vite, featuring product categories, search, authentication pages, shopping cart functionality, and client-side routing across 10+ pages.
 
-👗 **Moda Fashion Website**
-Modern fashion e-commerce style website built with React.
+### 🎓 Education
 
-🥐 **Crumb & Co. Bakery**
-Responsive bakery e-commerce website with cart and checkout experience.
+**Bachelor of Science in Computer Science**
+Lebanese International University
+**GPA: 3.84 / 4.00**
+Expected July 2027
 
-📱 **LIU App**
-Flutter mobile application for student attendance management.
+### 🏆 Honors & Certifications
 
-### 📫 Let's Connect
+* **Dean's List Certificate of Honor** — Spring 2024–2025
+* **Dean's List Certificate of Honor** — Fall 2025–2026
+* **DELF B2** — French Language Diploma
 
-I'm interested in frontend development, web design, and building creative digital experiences.
+### 🌍 Languages
+
+* Arabic — Native
+* English — Fluent
+* French — B2
+* Turkish — Intermediate
+
+### 🎯 Interests
+
+* Software Development
+* Web Development
+* Frontend Development
+* AI-Powered Applications
+* UI/UX Design
+* Modern Computing Technologies
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/reine-alkadri](https://www.linkedin.com/in/reine-alkadri)
+* **GitHub:** [github.com/reine-elkadri](https://github.com/reine-elkadri)
+* **Portfolio:** 
